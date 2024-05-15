@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CHEST X-RAY**
+- 🔭 I’m currently working on **CHEST X-RAY PROJECT**
 
-- 🌱 I’m currently learning **DATA ANALYST**
+- 🌱 I’m currently learning **DATA SCIENCE**
 
 - 📫 How to reach me **snandha7799@gmail.com**
 
